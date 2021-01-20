@@ -139,6 +139,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 1.78
       objectReference: {fileID: 0}
+    - target: {fileID: 3975011691521705559, guid: 7be207ec4b73421449771ae40106da10,
+        type: 3}
+      propertyPath: m_Name
+      value: Window
+      objectReference: {fileID: 0}
     - target: {fileID: 7415918675088612480, guid: 7be207ec4b73421449771ae40106da10,
         type: 3}
       propertyPath: m_Name
@@ -354,7 +359,7 @@ PrefabInstance:
     - target: {fileID: 7085546521806669961, guid: 2591238ab10093b468606a49b159cedc,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7085546521806669961, guid: 2591238ab10093b468606a49b159cedc,
         type: 3}
